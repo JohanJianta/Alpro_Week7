@@ -31,7 +31,7 @@ public class JohanRJ_0806022210005_Alpro_Nomor_1 {
                         System.out.println("");
                         int hasil = 1;
                         System.out.println("===============================================");
-                        System.out.println("                   Perkalian                   ");
+                        System.out.println("                   PERKALIAN                   ");
                         System.out.println("===============================================");
                         System.out.println("1. Normal");
                         System.out.println("2. Ganjil");
@@ -195,7 +195,7 @@ public class JohanRJ_0806022210005_Alpro_Nomor_1 {
                     while (kerja) {
                         System.out.println("");
                         System.out.println("===============================================");
-                        System.out.println("                 Name Spelling                 ");
+                        System.out.println("                 NAME SPELLING                 ");
                         System.out.println("===============================================");
                         System.out.println("");
                         System.out.print("Masukkan nama: ");
