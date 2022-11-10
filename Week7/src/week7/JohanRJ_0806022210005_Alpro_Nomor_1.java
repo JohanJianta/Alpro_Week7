@@ -44,7 +44,7 @@ public class JohanRJ_0806022210005_Alpro_Nomor_1 {
                         switch (pilihan){
                             case 1 :
                                 System.out.println("===============================================");
-                                System.out.println("                     Normal                    ");
+                                System.out.println("                     NORMAL                    ");
                                 System.out.println("===============================================");
                                 System.out.println("");
                                 System.out.print("Banyak perkalian: ");
@@ -66,7 +66,7 @@ public class JohanRJ_0806022210005_Alpro_Nomor_1 {
                             case 2 :
                                 j = 1;
                                 System.out.println("===============================================");
-                                System.out.println("                     Ganjil                    ");
+                                System.out.println("                     GANJIL                    ");
                                 System.out.println("===============================================");
                                 System.out.println("");
                                 System.out.print("Banyak perkalian: ");
@@ -89,7 +89,7 @@ public class JohanRJ_0806022210005_Alpro_Nomor_1 {
                             case 3 :
                                 j = 2;
                                 System.out.println("===============================================");
-                                System.out.println("                     Genap                     ");
+                                System.out.println("                     GENAP                     ");
                                 System.out.println("===============================================");
                                 System.out.println("");
                                 System.out.print("Banyak perkalian: ");
